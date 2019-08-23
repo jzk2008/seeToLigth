@@ -1,0 +1,21 @@
+{
+    "name": "seetolight/validator",
+    "description": "Simple validation parameters",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+    	"psr-4": {
+      	    "seeToLight\\": "src/"
+        }
+    },
+    "license": "seeToLight",
+    "authors": [
+        {
+            "name": "seeToLight",
+            "email": "552039447@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
